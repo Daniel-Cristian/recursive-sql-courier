@@ -10,3 +10,10 @@ Recursive SQL queries for PostgreSQL & Oracle
   alt="E-R Diagram of Database"
   title="E-R Diagram of Database"
   width="600" height="600">
+  
+  <img
+  src="https://github.com/Daniel-Cristian/recursive-sql/assets/90038552/f707e3a4-7110-4738-acbe-c1644c398efe](https://github.com/Daniel-Cristian/recursive-sql-courier/blob/4d8db6ebdb756597e4366c52a2b6a2b12eb1f4d7/nofrecords.png"
+  alt="E-R Diagram of Database"
+  title="E-R Diagram of Database"
+  width="600" height="600">
+  
