@@ -11,10 +11,8 @@ Recursive SQL queries for PostgreSQL & Oracle
   title="E-R Diagram of Database"
   width="600" height="600">
   <br></br>
-
 - To support performance benchmarking, two separate databases were created:
-+ a small‑scale database, used to validate query logic and correctness
-+ a large‑scale database, designed to stress‑test performance and simulate production‑level workloads
+a small‑scale database, used to validate query logic and correctness a large‑scale database, designed to stress‑test performance and simulate production‑level workloads
   <img
   src="https://github.com/Daniel-Cristian/recursive-sql-courier/blob/4d8db6ebdb756597e4366c52a2b6a2b12eb1f4d7/nofrecords.png"
   alt="Number of database records"
