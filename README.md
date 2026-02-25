@@ -12,7 +12,7 @@ Recursive SQL queries for PostgreSQL & Oracle
   width="600" height="600">
   <br></br>
 - To support performance benchmarking, two separate databases were created:
-a small‑scale database, used to validate query logic and correctness
+a small‑scale database, used to validate query logic and correctness;
 a large‑scale database, designed to stress‑test performance and simulate production‑level workloads
   <br></br>
   <img
