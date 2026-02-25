@@ -16,7 +16,7 @@ a small‑scale database, used to validate query logic and correctness;
 a large‑scale database, designed to stress‑test performance and simulate production‑level workloads
   <br></br>
   <img
-  src="https://github.com/Daniel-Cristian/recursive-sql-courier/blob/4d8db6ebdb756597e4366c52a2b6a2b12eb1f4d7/nofrecords.png"
+  src="https://github.com/Daniel-Cristian/recursive-sql-courier/blob/7844a3342a5bc6bfc4bf6d871f5bf8d3adfdc905/databasescale.png"
   alt="Number of database records"
   title="Number of database records"
   width="600" height="600">
